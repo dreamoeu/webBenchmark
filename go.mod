@@ -7,7 +7,7 @@ toolchain go1.24.3
 require (
 	github.com/EDDYCJY/fake-useragent v0.2.0
 	github.com/apoorvam/goterminal v0.0.0-20180523175556-614d345c47e5
-	github.com/miekg/dns v1.1.65
+	github.com/miekg/dns v1.1.66
 	github.com/shirou/gopsutil v3.21.11+incompatible
 )
 
