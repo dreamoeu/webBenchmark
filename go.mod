@@ -2,7 +2,7 @@ module github.com/dreamoeu/webBenchmark
 
 go 1.23.4
 
-toolchain go1.25.0
+toolchain go1.27.1
 
 require (
 	github.com/EDDYCJY/fake-useragent v0.2.0
