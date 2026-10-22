@@ -1,8 +1,6 @@
 module github.com/dreamoeu/webBenchmark
 
-go 1.23.4
-
-toolchain go1.25.0
+go 1.25.0
 
 require (
 	github.com/EDDYCJY/fake-useragent v0.2.0
@@ -21,8 +19,8 @@ require (
 	github.com/tklauser/numcpus v0.10.0 // indirect
 	github.com/yusufpapurcu/wmi v1.2.4 // indirect
 	golang.org/x/mod v0.24.0 // indirect
-	golang.org/x/net v0.40.0 // indirect
+	golang.org/x/net v0.55.0 // indirect
 	golang.org/x/sync v0.14.0 // indirect
-	golang.org/x/sys v0.33.0 // indirect
+	golang.org/x/sys v0.45.0 // indirect
 	golang.org/x/tools v0.33.0 // indirect
 )
